@@ -39,7 +39,7 @@ Execute the script as shown below:
 ## Output
 The output from the running the code is shown in the image below.
 
-<img src="https://github.com/smithjilks/crediation-test-0x00/blob/master/images/fizzbuzz.png" width="270"/>
+<img src="https://github.com/smithjilks/crediation-test-0x00/blob/master/images/fizzbuzz.png" width="400"/>
 
 ## License
         Copyright (c) 2021 Smith Jilks
